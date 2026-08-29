@@ -1,4 +1,4 @@
-APP_NAME = "Gitflow Development Version"
+APP_NAME = "Gitflow Development Release"
 
 
 def add(a, b):
